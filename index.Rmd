@@ -60,5 +60,4 @@ and Celsius to kelvin.
 Enter your temperature, choose the conversion type, either K to °C or
 °C to K, and hit the *Convert* button. That is!
 
---- .class #id
 

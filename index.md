@@ -15,7 +15,7 @@ knit        : slidify::knit2slides
 
 The kelvin (K) is a unit of measure for temperature based upon an absolute scale.
 
-0 K is know as the <em>absolute zero</em>, the temperature at which all thermal motion ceases.
+0 K is know as the _absolute zero_, the temperature at which all thermal motion ceases.
 
 --- .class #id 
 
@@ -65,5 +65,4 @@ and Celsius to kelvin.
 Enter your temperature, choose the conversion type, either K to °C or
 °C to K, and hit the *Convert* button. That is!
 
---- .class #id
 
